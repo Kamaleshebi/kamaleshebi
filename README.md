@@ -29,8 +29,17 @@
 
 ## 🚀 Projects
 
-### Disease Prediction using NLP
-A machine learning and NLP-based project for predicting possible diseases from user-provided medical information.
+### 🗑️ Smart Dustbin System
+- Developed a hardware-based smart waste management system for automatic and efficient waste handling.
+- **Type:** Hardware Mini Project
+
+### ☀️ Solar Tracking System
+- Developed a solar tracking system that adjusts the solar panel position to improve sunlight utilization.
+- **Type:** Hardware Mini Project
+
+### 🛡️ File Malware Detection Using LLMs
+- Developed a software-based system to detect and analyze potentially malicious files using Large Language Models.
+- **Type:** Software Mini Project
 
 ### Web Development Practice
 Learning HTML, CSS and JavaScript by building webpages, forms and interactive components.
