@@ -54,4 +54,6 @@ Learning HTML, CSS and JavaScript by building webpages, forms and interactive co
 
 ## 📫 Connect With Me
 
-- GitHub: @Kamaleshebi
+- 💼 LinkedIn: https://www.linkedin.com/in/kamalesh-k-41b009373
+- 📧 Email: ebikamalesh@gmail.com
+- 💻 GitHub: @Kamaleshebi
