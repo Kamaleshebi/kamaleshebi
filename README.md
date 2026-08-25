@@ -46,11 +46,11 @@ Learning HTML, CSS and JavaScript by building webpages, forms and interactive co
 
 ## 🎯 Current Goals
 
-- Improve my programming skills
-- Build real-world projects
-- Participate in hackathons
-- Improve problem-solving skills
-- Build a strong developer portfolio
+- Strengthen my programming and web development skills
+- Build practical software and hardware projects
+- Improve problem-solving and coding skills
+- Participate in hackathons and technical events
+- Gain industry-ready development skills
 
 ## 📫 Connect With Me
 
