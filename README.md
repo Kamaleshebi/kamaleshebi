@@ -56,5 +56,6 @@ Learning HTML, CSS and JavaScript by building webpages, forms and interactive co
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kamalesh-k-41b009373
 - 📧 Email: ebikamalesh@gmail.com
-- - 🌐 Portfolio: [View My Portfolio](https://kamaleshebi.github.io/kamalesh-portfolio/)
+- 🌐 Portfolio: [View My Portfolio](https://kamaleshebi.github.io/kamalesh-portfolio/)
+- 📄 Resume: [View My Resume](https://kamaleshebi.github.io/kamalesh-portfolio/Kamalesh_K_Modern_Resume_With_Languages.pdf)
 - 💻 GitHub: @Kamaleshebi
